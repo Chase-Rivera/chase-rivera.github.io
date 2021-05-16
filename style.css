@@ -17,7 +17,12 @@ header {
 }
 
 .hero {
-    height: 200px;
-    
+    height: 220px;
+    background-image: url(/purple\ sunset.jpeg);
+    background-size: cover;
+    background-position-x: center;
+    position: relative;
+
+
 
 }
