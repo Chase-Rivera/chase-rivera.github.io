@@ -22,7 +22,9 @@ header {
     background-size: cover;
     background-position-x: center;
     position: relative;
+}
 
-
-
+.flex-column {
+    display: flex;
+    flex-direction: column;
 }
