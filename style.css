@@ -13,4 +13,11 @@ header {
     color: darkslateblue;
     display: flex;
     justify-content: space-between;
+    height: 200px;
+}
+
+.hero {
+    height: 200px;
+    
+
 }
