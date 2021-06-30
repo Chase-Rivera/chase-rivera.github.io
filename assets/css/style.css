@@ -16,18 +16,9 @@ header {
     height: 200px;
 }
 
-.hero {
-    height: 220px;
-    background-image: url("../images/purple\ sunset.jpeg");
-    background-size: cover;
-    background-position-x: center;
-    position: relative;
-}
 
-.flex-column {
-    display: flex;
-    flex-direction: column;
-}
+
+
 
 h3 {
     font-size: 25px;
@@ -44,3 +35,4 @@ h3 {
 .portfolio.item:first-child {
     flex-basis: 100%;
 }
+
